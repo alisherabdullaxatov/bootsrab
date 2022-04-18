@@ -1,0 +1,18 @@
+
+.ul-s{
+    list-style: none;
+
+}
+.header{
+    height: 10vh;
+     background-color: blueviolet;
+     display: flex;
+     align-items: center;
+     color:white;
+}
+.header ul li a{
+    color: white;
+}
+.header ul li a:hover{
+    color: aqua;
+}
